@@ -28,7 +28,7 @@ from PIL import Image, ImageOps
 class ImageMaskDatasetGenerator:
   def __init__(self, resize=512):
     self.RESIZE = resize
-    self.threshold = 128
+    self.threshold = 100 #128
     self.ROTATION = True
     self.file_extension = ".bmp"
 

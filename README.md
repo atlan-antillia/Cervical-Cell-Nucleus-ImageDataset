@@ -3,8 +3,9 @@ The dataset used here has been take from the following <b>mendeley.com</b> websi
 
 <a href="https://data.mendeley.com/datasets/jks43dkjj7/1">Data for: Binary Tree-like Network with Two-path Fusion Attention Feature for Cervical Cell Nucleus Segmentation
 </a>
-
-
+<br>
+<li>2024/02/03: Updated Cervical-Cell-Nucleus-ImageMask-Dataset by changing threshold of ImageMaskDatasetGenerator.py </li>
+<br>
 
 <h3>1. Dataset Citation</h3>
 
