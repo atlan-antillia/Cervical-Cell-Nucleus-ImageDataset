@@ -1,0 +1,32 @@
+The dataset used here has been take from the following website
+
+https://data.mendeley.com/datasets/jks43dkjj7/1
+
+Data for: Binary Tree-like Network with Two-path Fusion Attention Feature for Cervical Cell Nucleus Segmentation
+Published: 18 April 2019 Version 1
+
+
+<h3>1. Dataset Citation</h3>
+
+<b>Data for: Binary Tree-like Network with Two-path Fusion Attention Feature for Cervical Cell Nucleus Segmentation</b>
+<pre>
+Published: 18 April 2019 Version 1
+
+https://data.mendeley.com/datasets/jks43dkjj7/1
+
+DOI:
+10.17632/jks43dkjj7.1
+
+Contributor:
+Jianwei Zhang
+
+Description
+The images are based on Liquid-Based Cytology test from the pathology departments of a Chinese hospital 
+and a biomedical device company. Under the guidance of a professional pathologist, we choose qualified 
+images in numerous LCT cervical images. The dataset contains 104 images with size  and each image has 
+a ground truth that has been manually segmented by a professional pathologist.
+
+Licence
+CC BY 4.0
+</pre>
+
