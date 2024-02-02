@@ -1,10 +1,10 @@
-<h2>Cervical-Cell-Nucleus-Image-Dataset (2024/02/02)</h2>
+<h2>Cervical-Cell-Nucleus-Image-Dataset (Updated: 2024/02/03)</h2>
 The dataset used here has been take from the following <b>mendeley.com</b> website
 
 <a href="https://data.mendeley.com/datasets/jks43dkjj7/1">Data for: Binary Tree-like Network with Two-path Fusion Attention Feature for Cervical Cell Nucleus Segmentation
 </a>
 <br>
-<li>2024/02/03: Updated Cervical-Cell-Nucleus-ImageMask-Dataset by changing threshold of ImageMaskDatasetGenerator.py </li>
+<li>2024/02/03: Updated Cervical-Cell-Nucleus-ImageMask-Dataset by changing the binarize-threshold in ImageMaskDatasetGenerator.py </li>
 <br>
 
 <h3>1. Dataset Citation</h3>
