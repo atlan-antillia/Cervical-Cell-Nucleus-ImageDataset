@@ -109,7 +109,7 @@ python split_master.py
 <br>
 <br>
 
-<img src="_Cervical-Cell-Nucleus-ImageMask-Dataset_.png"><br>
+<img src="_Cervical-Cell-Nucleus-ImageMask-Dataset_.png" width="512" height="auto"><br>
 
 You can download this dataset from the google drive 
 <a href="https://drive.google.com/file/d/1hyxctv-trt36A72YXHGklo5GEUZOf0jR/view?usp=sharing">
